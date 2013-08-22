@@ -24,8 +24,6 @@ int main(int argc, char* argv[])
 	test(&temp1);
 
 	printf("temp1 is %s \r\n", temp1);
-	
-	printf("hello github");
 
 	return 0;
 }
